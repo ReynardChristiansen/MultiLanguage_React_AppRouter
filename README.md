@@ -2,12 +2,12 @@ npm install next-intl
 
 change all in app into [locale]
 
-middleware.js
+-middleware.js
 
-next.config.js
+-next.config.js
 
-i18n.js
+-i18n.js
 
-folder messages
+-folder messages
 
 npm run dev
